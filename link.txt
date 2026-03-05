@@ -1,0 +1,19 @@
+cacert.pem website (QGIS)
+
+https://registry.opendata.aws/terrain-tiles/
+https://registry.opendata.aws/copernicus-dem/
+https://www.linkedin.com/posts/arkadiuszszadkowski_geospatial-opendata-lidar-activity-7147840304396627968-SsaC/
+
+https://storms.ngs.noaa.gov/
+https://anaconda.com/app/
+https://urs.earthdata.nasa.gov/home
+https://viewers.apps.pgc.umn.edu/world/
+https://search.earthdata.nasa.gov/search
+https://www.planet.com/account/#/dashboard
+https://www.openstreetmap.org/#map=17/18.57927/-72.28173
+https://survey123.arcgis.com/share/c2ecf342bdb340889225b1a67e53d2c3
+https://pixtoday.net/login/login
+https://earth.nullschool.net/
+https://earthexplorer.usgs.gov/
+https://gmtds.maplarge.com/public/ext/GMTDS/Main
+https://marinecadastre.gov/data/
